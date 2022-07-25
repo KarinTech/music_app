@@ -1,0 +1,49 @@
+body{ 
+    background-color: hotpink;
+}
+
+
+
+.cuadro{
+   
+    width: 250px;
+    height:480px;
+    border: 2px black solid;
+    border-radius: 2%;
+    background-color: white;  
+    padding:1%;
+    margin:20px 350px 220px;
+    text-align:center;
+}
+
+.cuadro img{
+  max-width: 100%;
+}
+
+
+.button1{
+    background: none;
+    border-radius: 2ch;
+    box-shadow: 2px gray;
+    margin-bottom: 5px;
+  
+
+}
+.button2{
+   
+    border: 2,1px solid;
+    background-color: blue;
+    color:whitesmoke;
+    font-size: medium;
+    border-radius: 2ch;
+    box-shadow: 2px gray;
+  
+
+
+}
+.button3{
+    border-radius: 1ch;
+    background-color:blue;
+    color: white;
+}
+    
